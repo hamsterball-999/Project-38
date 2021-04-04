@@ -1,1 +1,2 @@
- Project 38 - Infinite Runner Game 1
+# PROJECT-38
+Infinite Runner Game 1
